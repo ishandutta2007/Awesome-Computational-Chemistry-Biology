@@ -28,69 +28,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## Table of Contents
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The computational biology and chemistry software market is valued at approximately $8B–$10.7B and is projected to surpass $30B over the next decade at a 13%–17% CAGR, fueled by AI-driven drug discovery, next-generation sequencing, and multi-omics analysis. The market structure is moderately fragmented: an oligopolistic core of enterprise platform incumbents (e.g., Cadence/OpenEye, Dassault Systèmes BIOVIA, Schrödinger) holds concentrated long-term contracts with major biopharma leaders, while an agile, fragmented periphery of AI startups and academic open-source tools continually drives specialized innovation across niche modeling layers.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Schrödinger PyMOL](https://www.pymol.org/)**  
-
-  **The most widely used molecular visualization system** (Incentive PyMOL) . **The commercial product with maintenance and support** is available from Schrödinger, while the **open-source foundation** is published under a BSD-like license  . **The standard for publication-quality molecular graphics**—high-resolution rendering with `ray`  .
-
-
-
-- **[BIOVIA Discovery Studio](https://www.3ds.com/products/biovia/discovery-studio)**  
-
-  **Comprehensive molecular modeling and simulation platform** (commercial) . Features **QSAR models** for toxicological endpoints, **docking**, **protein modeling**, and **ADMET prediction**  . **The enterprise standard** for pharmaceutical research.
-
-
-
-- **[MOE (Chemical Computing Group)](https://www.chemcomp.com/)**  
-
-  **Molecular Operating Environment**—integrated drug discovery platform with **docking**, **pharmacophore modeling**, **QSAR**, and **structure-based design**.
-
-
-
-- **[OpenEye Scientific (Cadence)](https://www.eyesopen.com/)**  
-
-  **Cloud-native Orion platform** with **ROCS for shape-based screening**, **EON for electrostatic comparison**, **OMEGA for conformer generation**, and **FRED for docking**  . **Best suited for developers building custom computational pipelines**  . Available on AWS and Cadence OnCloud with **no on-premises installation option**  .
-
-
-
-- **[Cresset](https://www.cresset-group.com/)**  
-
-  **Molecular field technology platform**—**Torch** for 3D SAR, **Forge** for bioactive conformation determination, **Spark** for bioisostere identification, **Blaze** for ligand-based virtual screening  . **TorchLite** is available as a **free 3D molecular viewer** with shape and electrostatic field display  .
-
-
-
-- **[AMBER](https://ambermd.org/)**  
-
-  **Assisted Model Building with Energy Refinement**—the **gold-standard molecular dynamics package** for biomolecular simulation . **Commercial license** with **free academic access** . **The reference implementation for force field development**  .
-
-
-
-- **[CHARMM](https://www.charmm.org/)**  
-
-  **Chemistry at HARvard Macromolecular Mechanics**—**pioneering MD package** with **P21 periodic boundary conditions** for membrane systems  . **Commercial license** with academic access .
-
-
-
-- **[Spartan](https://www.wavefun.com/)**  
-
-  **Molecular modeling and computational chemistry software** from Wavefunction, Inc.  . **The standard for teaching computational chemistry**—intuitive interface with quantum chemistry calculations  .
-
-
+| Product / Platform | Company / Developer | Company Size (Rev / Valuation) | Pricing (Specific Starting Tiers) | Free Tier Limits / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[OpenEye Scientific (Cadence)](https://www.eyesopen.com/)** | Cadence Design Systems (NASDAQ: CDNS) | ~$5.30B revenue / ~$92B market cap | Paid Academic Package starts via custom quote; Orion cloud compute billed per second on AWS / Cadence OnCloud | **Free Public Domain Research License**: Free forever for accredited degree-granting academic research, but requires all results/data to be published to the public domain (no IP retention allowed) and includes no technical support. No self-serve commercial free trial. | Cloud-native Orion platform with ROCS (shape screening), EON (electrostatics), OMEGA (conformers), and FRED (docking). Ideal for custom computational pipelines on AWS/Cadence OnCloud. |
+| **[BIOVIA Discovery Studio](https://www.3ds.com/products/biovia/discovery-studio)** | Dassault Systèmes (Euronext: DSY) | ~€6.24B (~$6.8B) revenue / ~$32B market cap | Annual subscription starts around ~$6,000/year for baseline configurations; commercial/academic simulation suites scale via custom enterprise quotes | **Discovery Studio Visualizer (Free Forever)**: Free standalone viewer with no expiration; restricted to viewing, sharing, and basic analysis of 3D macromolecular structures (excludes simulations, docking, and ADMET modules). Sales-approved enterprise evaluations available upon request. | Comprehensive molecular modeling platform featuring QSAR models, docking, protein modeling, and ADMET prediction. The enterprise standard for biopharma R&D. |
+| **[Schrödinger PyMOL](https://www.pymol.org/)** | Schrödinger, Inc. (NASDAQ: SDGR) | ~$259M revenue / ~$1.8B market cap | **Academic single user**: $99/year (2-year: $198, 3-year: $297); **Commercial single user**: $1,050/year (2-year: $2,100, 3-year: $3,150) | **PyMOL Educational Build (Free Forever)**: Dedicated strictly to classroom instruction and coursework; legally prohibited from being used for academic research, data analysis, or publication; includes no Schrödinger tech support. Source code also available free under open-source license. | Industry-standard molecular visualization system (Incentive PyMOL) known for publication-grade graphics, ray tracing, and high-resolution rendering. |
+| **[CHARMM](https://www.charmm.org/)** | Academic CHARMM Development / BIOVIA | ~$15M–$25M (Academic consortium / BIOVIA commercial distributor) | **Academic / Non-profit**: Free ($0); **Commercial (CHARMm)**: Proprietary enterprise licensing via BIOVIA custom quote | **Academic Version (Free Forever)**: Completely free of charge with all GPU acceleration and parallel scaling features, restricted strictly to non-profit, government, and degree-granting academic labs. Zero commercial usage permitted. | Pioneering molecular dynamics package featuring P21 periodic boundary conditions for membrane and biomolecular systems. Commercialized by BIOVIA. |
+| **[AMBER](https://ambermd.org/)** | University of California, San Francisco / AMBER Developers | ~$10M–$20M (Consortium / institutional distribution) | **Academic / Non-profit / Gov**: Free ($0); **Commercial**: $25,000 perpetual for new licensees ($20,000 for upgrades/renewals) | **AmberTools (Free Forever)**: 100% free under GPL for all users (including commercial) for basic MD setup and analysis; full GPU-accelerated PMEMD package is free forever for non-profit and academic use. No commercial trial period. | Gold-standard molecular dynamics package for biomolecular simulation. Reference implementation for force field development and GPU-accelerated MD. |
+| **[MOE (Chemical Computing Group)](https://www.chemcomp.com/)** | Chemical Computing Group (CCG) | ~$5M–$10M revenue (Private) | Paid annual subscription (academic discount via edu@chemcomp.com; commercial typically $10,000+ per seat annually) | **Institutional Free Trial**: Available upon request via institutional/corporate email verification; typically granted as a 14 to 30-day node-locked or floating evaluation key for testing all modeling features before purchase. | Molecular Operating Environment: comprehensive drug discovery platform covering docking, pharmacophore modeling, QSAR, and biotherapeutics design. |
+| **[Spartan](https://www.wavefun.com/)** | Wavefunction, Inc. | ~$5M–$10M revenue (Private) | **Student Edition**: $60 perpetual; **Standard Academic**: $1,800 (≤16 cores) / $2,700 (>16 cores); **Commercial**: $5,400 (≤16 cores) / $8,100 (>16 cores) | **30-Day Free Trial**: Fully functional demo license for Spartan Parallel Suite or ODYSSEY, available to faculty and industrial chemists upon request (students must request via advisor). | Molecular modeling and computational chemistry software combining an intuitive GUI with ab initio and DFT quantum chemistry engines. |
+| **[Cresset](https://www.cresset-group.com/)** | Cresset Group | ~$5M–$8M revenue (Private) | Modules (Flare, Spark, Blaze) licensed via customized annual subscriptions; academic discounts available | **Flare Visualizer (Free Forever)**: Free perpetual 3D viewer for protein-ligand complexes and electrostatic fields. Event/workshop trials typically grant a 60-day full-feature trial; ad-hoc corporate evaluations provided on sales approval. | Molecular field technology platform featuring Flare (structure-based design/FEP), Spark (bioisosteric replacement), and Blaze (ligand virtual screening). |
 
 ## Open-Source GitHub Projects
 
