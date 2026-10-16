@@ -65,84 +65,84 @@ The market structure is characterized as **moderately fragmented**:
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted in descending order by GitHub Star count. Star badges link directly to each project's stargazers.*
+*Sorted in descending order by GitHub Stars_Count. Stars_Badges link directly to each project's stargazers.*
 
-1. **[DeepChem](https://github.com/deepchem/deepchem)** [![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white)](https://github.com/deepchem/deepchem/stargazers)  
+1. **[DeepChem](https://github.com/deepchem/deepchem)** [![GitHub_Stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white)](https://github.com/deepchem/deepchem/stargazers)  
    **Democratizing deep learning for sciences** (MIT) 🧪. The premier open-source library applying deep learning to drug discovery, materials science, quantum chemistry, and biology. Features unified APIs for molecular graph convolutions, transformers, and property prediction benchmarks.
 
-2. **[Biopython](https://github.com/biopython/biopython)** [![GitHub stars](https://img.shields.io/github/stars/biopython/biopython?style=social&color=white)](https://github.com/biopython/biopython/stargazers)  
+2. **[Biopython](https://github.com/biopython/biopython)** [![GitHub_Stars](https://img.shields.io/github/stars/biopython/biopython?style=social&color=white)](https://github.com/biopython/biopython/stargazers)  
    **The universal Python library for computational molecular biology** (BSD-like) 🧬. Provides battle-tested parsers for bioinformatics file formats (FASTA, GenBank, BLAST, PDB, mmCIF), sequence manipulation tools, phylogenetic trees, and structural biology analysis.
 
-3. **[ESM (Evolutionary Scale Modeling)](https://github.com/facebookresearch/esm)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/esm?style=social&color=white)](https://github.com/facebookresearch/esm/stargazers)  
+3. **[ESM (Evolutionary Scale Modeling)](https://github.com/facebookresearch/esm)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/esm?style=social&color=white)](https://github.com/facebookresearch/esm/stargazers)  
    **State-of-the-art transformer protein language models** (MIT) 🤖. Built by Meta FAIR, ESM-2 and ESMFold enable ultra-fast atomic-resolution protein 3D structure prediction directly from primary sequence without evolutionary MSA alignments.
 
-4. **[RDKit](https://github.com/rdkit/rdkit)** [![GitHub stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social&color=white)](https://github.com/rdkit/rdkit/stargazers)  
+4. **[RDKit](https://github.com/rdkit/rdkit)** [![GitHub_Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social&color=white)](https://github.com/rdkit/rdkit/stargazers)  
    **The gold standard cheminformatics and machine learning toolkit** (BSD-3-Clause) 🔬. The foundational backbone for almost every modern drug discovery pipeline—handles SMILES/SMARTS parsing, 2D/3D conformer generation, Morgan fingerprinting, chemical reactions, and substructure searching.
 
-5. **[OpenFold](https://github.com/aqlaboratory/openfold)** [![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social&color=white)](https://github.com/aqlaboratory/openfold/stargazers)  
+5. **[OpenFold](https://github.com/aqlaboratory/openfold)** [![GitHub_Stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social&color=white)](https://github.com/aqlaboratory/openfold/stargazers)  
    **Trainable, open-source PyTorch reproduction of AlphaFold2** (Apache-2.0) 🧬. Fully trainable from scratch with memory-efficient attention kernels, modular codebases, and complete support for fine-tuning protein folding models on proprietary structural datasets.
 
-6. **[LAMMPS](https://github.com/lammps/lammps)** [![GitHub stars](https://img.shields.io/github/stars/lammps/lammps?style=social&color=white)](https://github.com/lammps/lammps/stargazers)  
+6. **[LAMMPS](https://github.com/lammps/lammps)** [![GitHub_Stars](https://img.shields.io/github/stars/lammps/lammps?style=social&color=white)](https://github.com/lammps/lammps/stargazers)  
    **Large-scale Atomic/Molecular Massively Parallel Simulator** (GPL-2.0) ⚛️. Highly scalable classical molecular dynamics code specializing in materials science, soft matter, polymers, coarse-grained biosystems, and granular simulations across massive supercomputers.
 
-7. **[OpenMM](https://github.com/openmm/openmm)** [![GitHub stars](https://img.shields.io/github/stars/openmm/openmm?style=social&color=white)](https://github.com/openmm/openmm/stargazers)  
+7. **[OpenMM](https://github.com/openmm/openmm)** [![GitHub_Stars](https://img.shields.io/github/stars/openmm/openmm?style=social&color=white)](https://github.com/openmm/openmm/stargazers)  
    **High-performance GPU-accelerated biomolecular simulation engine** (MIT / LGPL) ⚡. Provides extreme computational speed via CUDA/OpenCL, extensive Python APIs, and seamless integration with custom forces and machine learning neural network potentials.
 
-8. **[PyMOL Open-Source](https://github.com/schrodinger/pymol-open-source)** [![GitHub stars](https://img.shields.io/github/stars/schrodinger/pymol-open-source?style=social&color=white)](https://github.com/schrodinger/pymol-open-source/stargazers)  
+8. **[PyMOL Open-Source](https://github.com/schrodinger/pymol-open-source)** [![GitHub_Stars](https://img.shields.io/github/stars/schrodinger/pymol-open-source?style=social&color=white)](https://github.com/schrodinger/pymol-open-source/stargazers)  
    **Open-source base of the premier molecular visualization tool** (BSD-like) 🎨. The community-accessible source code for PyMOL, allowing researchers to compile, customize, and automate publication-quality 3D macromolecular rendering without commercial licensing fees.
 
-9. **[PySCF](https://github.com/pyscf/pyscf)** [![GitHub stars](https://img.shields.io/github/stars/pyscf/pyscf?style=social&color=white)](https://github.com/pyscf/pyscf/stargazers)  
+9. **[PySCF](https://github.com/pyscf/pyscf)** [![GitHub_Stars](https://img.shields.io/github/stars/pyscf/pyscf?style=social&color=white)](https://github.com/pyscf/pyscf/stargazers)  
    **Python-based Simulations of Chemistry Framework** (Apache-2.0) 🔬. An all-in-one quantum chemistry codebase offering efficient implementations of Hartree-Fock, DFT, MP2, CCSD(T), CASSCF, and periodic boundary solid-state calculations.
 
-10. **[MDAnalysis](https://github.com/MDAnalysis/mdanalysis)** [![GitHub stars](https://img.shields.io/github/stars/MDAnalysis/mdanalysis?style=social&color=white)](https://github.com/MDAnalysis/mdanalysis/stargazers)  
+10. **[MDAnalysis](https://github.com/MDAnalysis/mdanalysis)** [![GitHub_Stars](https://img.shields.io/github/stars/MDAnalysis/mdanalysis?style=social&color=white)](https://github.com/MDAnalysis/mdanalysis/stargazers)  
     **Object-oriented library for analyzing molecular dynamics trajectories** (GPL-2.0) 📈. Native interoperability across GROMACS, Amber, CHARMM, NAMD, LAMMPS, and Desmond file formats, delivering flexible selections and spatial-temporal data analysis.
 
-11. **[Open Babel](https://github.com/openbabel/openbabel)** [![GitHub stars](https://img.shields.io/github/stars/openbabel/openbabel?style=social&color=white)](https://github.com/openbabel/openbabel/stargazers)  
+11. **[Open Babel](https://github.com/openbabel/openbabel)** [![GitHub_Stars](https://img.shields.io/github/stars/openbabel/openbabel?style=social&color=white)](https://github.com/openbabel/openbabel/stargazers)  
     **The universal chemical file converter and cheminformatics toolbox** (GPL-2.0) 🔄. Supports over 110 chemical and crystallographic file formats, providing format translation, conformer generation, protonation adjustment, and 3D coordinate generation.
 
-12. **[Psi4](https://github.com/psi4/psi4)** [![GitHub stars](https://img.shields.io/github/stars/psi4/psi4?style=social&color=white)](https://github.com/psi4/psi4/stargazers)  
+12. **[Psi4](https://github.com/psi4/psi4)** [![GitHub_Stars](https://img.shields.io/github/stars/psi4/psi4?style=social&color=white)](https://github.com/psi4/psi4/stargazers)  
     **Open-source suite for high-accuracy ab initio quantum chemistry** (LGPL-3.0) 💡. Driven by an intuitive Python frontend with high-efficiency C++ computational kernels for coupled-cluster, symmetry-adapted perturbation theory (SAPT), and DFT.
 
-13. **[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina)** [![GitHub stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?style=social&color=white)](https://github.com/ccsb-scripps/AutoDock-Vina/stargazers)  
+13. **[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina)** [![GitHub_Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?style=social&color=white)](https://github.com/ccsb-scripps/AutoDock-Vina/stargazers)  
     **The world's most widely cited molecular docking program** (Apache-2.0) 🎯. High-speed, multi-threaded protein-ligand and flexible-receptor docking engine featuring advanced global search algorithms, accurate empirical scoring, and batch virtual screening.
 
-14. **[NequIP](https://github.com/mir-group/nequip)** [![GitHub stars](https://img.shields.io/github/stars/mir-group/nequip?style=social&color=white)](https://github.com/mir-group/nequip/stargazers)  
+14. **[NequIP](https://github.com/mir-group/nequip)** [![GitHub_Stars](https://img.shields.io/github/stars/mir-group/nequip?style=social&color=white)](https://github.com/mir-group/nequip/stargazers)  
     **E(3)-equivariant neural network interatomic potentials** (MIT) 🧠. Delivers near-DFT quantum mechanical potential energy surface accuracy in molecular dynamics with unprecedented sample efficiency, rotational equivariance, and transferability.
 
-15. **[GROMACS](https://github.com/gromacs/gromacs)** [![GitHub stars](https://img.shields.io/github/stars/gromacs/gromacs?style=social&color=white)](https://github.com/gromacs/gromacs/stargazers)  
+15. **[GROMACS](https://github.com/gromacs/gromacs)** [![GitHub_Stars](https://img.shields.io/github/stars/gromacs/gromacs?style=social&color=white)](https://github.com/gromacs/gromacs/stargazers)  
     **Extreme-throughput biomolecular dynamics engine** (LGPL-2.1) 🚀. Industry benchmark for high-speed MD simulations of proteins, lipids, and nucleic acids. Implements state-of-the-art SIMD acceleration, dynamic cluster pair search lists, and multi-GPU/MPI heterogeneous scaling.
 
-16. **[xTB](https://github.com/grimme-lab/xtb)** [![GitHub stars](https://img.shields.io/github/stars/grimme-lab/xtb?style=social&color=white)](https://github.com/grimme-lab/xtb/stargazers)  
+16. **[xTB](https://github.com/grimme-lab/xtb)** [![GitHub_Stars](https://img.shields.io/github/stars/grimme-lab/xtb?style=social&color=white)](https://github.com/grimme-lab/xtb/stargazers)  
     **Extended Tight-Binding Semiempirical quantum chemistry suite** (LGPL-3.0) ⚡. Developed by the Grimme group for ultra-fast geometry optimizations, vibrational frequencies, and conformational searches across massive organic and organometallic systems (GFNn-xTB methods).
 
-17. **[RELION](https://github.com/3dem/relion)** [![GitHub stars](https://img.shields.io/github/stars/3dem/relion?style=social&color=white)](https://github.com/3dem/relion/stargazers)  
+17. **[RELION](https://github.com/3dem/relion)** [![GitHub_Stars](https://img.shields.io/github/stars/3dem/relion?style=social&color=white)](https://github.com/3dem/relion/stargazers)  
     **REgularised LIkelihood OptimisatioN for Cryo-EM** (GPL-2.0) 🧊. The standard software platform for single-particle cryo-electron microscopy and cryo-electron tomography 3D macromolecular reconstruction using empirical Bayesian methods.
 
-18. **[Rosetta](https://github.com/RosettaCommons/rosetta)** [![GitHub stars](https://img.shields.io/github/stars/RosettaCommons/rosetta?style=social&color=white)](https://github.com/RosettaCommons/rosetta/stargazers)  
+18. **[Rosetta](https://github.com/RosettaCommons/rosetta)** [![GitHub_Stars](https://img.shields.io/github/stars/RosettaCommons/rosetta?style=social&color=white)](https://github.com/RosettaCommons/rosetta/stargazers)  
     **Comprehensive macromolecular modeling and de novo protein design** (Academic Free / Commercial License) 🧩. Unmatched capabilities for de novo structural prediction, protein-protein docking, loop modeling, enzyme design, and PyRosetta Python scripting.
 
-19. **[cclib](https://github.com/cclib/cclib)** [![GitHub stars](https://img.shields.io/github/stars/cclib/cclib?style=social&color=white)](https://github.com/cclib/cclib/stargazers)  
+19. **[cclib](https://github.com/cclib/cclib)** [![GitHub_Stars](https://img.shields.io/github/stars/cclib/cclib?style=social&color=white)](https://github.com/cclib/cclib/stargazers)  
     **Computational chemistry logfile parser** (BSD-3-Clause) 📄. Parses, standardizes, and extracts thermochemical, electronic, and structural properties from Gaussian, ORCA, Q-Chem, NWChem, Molpro, and other quantum software outputs.
 
-20. **[OpenFF Toolkit](https://github.com/openforcefield/openff-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/openforcefield/openff-toolkit?style=social&color=white)](https://github.com/openforcefield/openff-toolkit/stargazers)  
+20. **[OpenFF Toolkit](https://github.com/openforcefield/openff-toolkit)** [![GitHub_Stars](https://img.shields.io/github/stars/openforcefield/openff-toolkit?style=social&color=white)](https://github.com/openforcefield/openff-toolkit/stargazers)  
     **Next-generation open science force fields** (MIT) 🌐. Powers the SMIRNOFF specification for direct chemical-environment force-field typing without atom-type combinatorial explosion, driving transparent, reproducible parameterization.
 
-21. **[OpenMM Tools](https://github.com/choderalab/openmmtools)** [![GitHub stars](https://img.shields.io/github/stars/choderalab/openmmtools?style=social&color=white)](https://github.com/choderalab/openmmtools/stargazers)  
+21. **[OpenMM Tools](https://github.com/choderalab/openmmtools)** [![GitHub_Stars](https://img.shields.io/github/stars/choderalab/openmmtools?style=social&color=white)](https://github.com/choderalab/openmmtools/stargazers)  
     **Advanced sampling and simulation toolkit** (MIT) 🛠️. Specialized integrators, Markov state modeling helpers, replica-exchange frameworks, and alchemical free energy tools for OpenMM workflows.
 
-22. **[OpenFE (Open Free Energy)](https://github.com/OpenFreeEnergy/openfe)** [![GitHub stars](https://img.shields.io/github/stars/OpenFreeEnergy/openfe?style=social&color=white)](https://github.com/OpenFreeEnergy/openfe/stargazers)  
+22. **[OpenFE (Open Free Energy)](https://github.com/OpenFreeEnergy/openfe)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenFreeEnergy/openfe?style=social&color=white)](https://github.com/OpenFreeEnergy/openfe/stargazers)  
     **Open-source platform for alchemical free energy calculations** (MIT) ⚖️. Standardized relative and absolute binding free energy (RBFE/ABFE) workflows with automated network generation, simulation orchestration, and statistical validation.
 
-23. **[PyMBAR](https://github.com/choderalab/pymbar)** [![GitHub stars](https://img.shields.io/github/stars/choderalab/pymbar?style=social&color=white)](https://github.com/choderalab/pymbar/stargazers)  
+23. **[PyMBAR](https://github.com/choderalab/pymbar)** [![GitHub_Stars](https://img.shields.io/github/stars/choderalab/pymbar?style=social&color=white)](https://github.com/choderalab/pymbar/stargazers)  
     **Multistate Bennett Acceptance Ratio analysis** (MIT) 📊. Python implementation of MBAR and BAR for computing rigorous, statistically optimal free energy differences from umbrella sampling and alchemical simulations.
 
-24. **[Avogadro 2](https://github.com/OpenChemistry/avogadroapp)** [![GitHub stars](https://img.shields.io/github/stars/OpenChemistry/avogadroapp?style=social&color=white)](https://github.com/OpenChemistry/avogadroapp/stargazers)  
+24. **[Avogadro 2](https://github.com/OpenChemistry/avogadroapp)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenChemistry/avogadroapp?style=social&color=white)](https://github.com/OpenChemistry/avogadroapp/stargazers)  
     **Cross-platform molecular editor and builder** (BSD-3-Clause) 🖥️. Interactive GUI designed for creating, editing, and visually inspecting chemical structures, input generation for quantum chemistry packages, and surface rendering.
 
-25. **[simple-dftd3](https://github.com/dftd3/simple-dftd3)** [![GitHub stars](https://img.shields.io/github/stars/dftd3/simple-dftd3?style=social&color=white)](https://github.com/dftd3/simple-dftd3/stargazers)  
+25. **[simple-dftd3](https://github.com/dftd3/simple-dftd3)** [![GitHub_Stars](https://img.shields.io/github/stars/dftd3/simple-dftd3?style=social&color=white)](https://github.com/dftd3/simple-dftd3/stargazers)  
     **Lightweight DFT-D3 dispersion correction engine** (LGPL-3.0) ⚡. Fast, standalone C and Fortran implementation of Grimme's dispersion corrections with Becke-Johnson (BJ) damping functions.
 
-26. **[QuAcK](https://github.com/pfloos/QuAcK)** [![GitHub stars](https://img.shields.io/github/stars/pfloos/QuAcK?style=social&color=white)](https://github.com/pfloos/QuAcK/stargazers)  
+26. **[QuAcK](https://github.com/pfloos/QuAcK)** [![GitHub_Stars](https://img.shields.io/github/stars/pfloos/QuAcK?style=social&color=white)](https://github.com/pfloos/QuAcK/stargazers)  
     **Quantum electronic structure prototyping** (Apache-2.0) 🦆. Python research platform for developing and testing advanced post-Hartree-Fock, coupled-cluster, and GW Green's function methods.
 
 ---
