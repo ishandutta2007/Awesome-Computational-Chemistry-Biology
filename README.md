@@ -1,44 +1,54 @@
-# Awesome-Computational-Chemistry-Biology
+# 🧪 Awesome Computational Chemistry & Biology 🧬
 
-## Top Computational Chemistry & Biology Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Computational Chemistry &amp; Biology Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computational-Chemistry-Biology/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computational-Chemistry-Biology?style=flat-square&color=gold" alt="Repo Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computational-Chemistry-Biology/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computational-Chemistry-Biology?style=flat-square&color=blue" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computational-Chemistry-Biology/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Computational-Chemistry-Biology?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 📌 Top Computational Chemistry & Biology Ecosystem
 
-*Focused on Molecular Dynamics, Docking & Macromolecular Modeling*  
+**A Curated Collection of Enterprise SaaS Platforms & High-Performance Open-Source GitHub Projects**  
+*Comprehensive tools for Molecular Dynamics (MD), Protein-Ligand Docking, AI/ML Interatomic Potentials, Cheminformatics, Cryo-EM, and Macromolecular Structure Prediction.*
 
-**Last updated: October 2026**
+**Last updated: October 2026** 📅
 
+This repository tracks premier **SaaS platforms** and **open-source software** powering modern **computational chemistry**, **structural biology**, and **computer-aided drug design (CADD)**. Researchers and bioinformaticians leverage these tools to perform multi-scale physics simulations, screen ultra-large virtual chemical libraries, simulate all-atom force fields, and deploy deep learning foundation models for biomolecular design.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Computational Chemistry & Biology**. These tools enable researchers to simulate molecular dynamics, dock ligands to proteins, predict structures, and analyze biomolecular systems—from physics-based force fields to machine learning potentials.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer & Software Licensing](#-disclaimer--software-licensing)
 
+---
 
-**Examples** include Schrödinger PyMOL, MOE (CCG), BIOVIA Discovery Studio, AMBER, CHARMM, GROMACS, OpenEye Scientific, Cresset, AutoDock, and Spartan (the category leaders).
+## 📊 Sector Overview & Market Dynamics
 
+The global **computational biology and computational chemistry software market** is currently valued between **$8B and $10.7B**, projected to surge past **$30B by 2035** at a rapid **13%–17% CAGR**. Growth is strongly accelerated by AI foundation models (such as AlphaFold, ESM, and equivariant neural networks), next-generation sequencing (NGS), and high-throughput virtual screening in pharmaceutical biotechs.
 
+The market structure is characterized as **moderately fragmented**:
+- **Consolidated Enterprise Core:** A concentrated tier of established multinational engineering and life-science platform providers (e.g., Cadence/OpenEye, Dassault Systèmes BIOVIA, Schrödinger) capture ~35%–40% of industry software expenditures through comprehensive multi-year enterprise contracts with global pharma leaders.
+- **Agile Innovation Periphery:** A fast-evolving, highly fragmented open-source and biotech startup layer pioneers specialized de novo design, free energy perturbation (FEP), cryo-EM processing, and equivariant machine learning potentials.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, molecular simulation, and open scientific computing—ideal for computational chemists, structural biologists, and developers seeking transparent, vendor-independent research tools.
+---
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The computational biology and chemistry software market is valued at approximately $8B–$10.7B and is projected to surpass $30B over the next decade at a 13%–17% CAGR, fueled by AI-driven drug discovery, next-generation sequencing, and multi-omics analysis. The market structure is moderately fragmented: an oligopolistic core of enterprise platform incumbents (e.g., Cadence/OpenEye, Dassault Systèmes BIOVIA, Schrödinger) holds concentrated long-term contracts with major biopharma leaders, while an agile, fragmented periphery of AI startups and academic open-source tools continually drives specialized innovation across niche modeling layers.
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS & Hosted Commercial Platforms
 
 | Product / Platform | Company / Developer | Company Size (Rev / Valuation) | Pricing (Specific Starting Tiers) | Free Tier Limits / Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -51,152 +61,128 @@ The computational biology and chemistry software market is valued at approximate
 | **[Spartan](https://www.wavefun.com/)** | Wavefunction, Inc. | ~$5M–$10M revenue (Private) | **Student Edition**: $60 perpetual; **Standard Academic**: $1,800 (≤16 cores) / $2,700 (>16 cores); **Commercial**: $5,400 (≤16 cores) / $8,100 (>16 cores) | **30-Day Free Trial**: Fully functional demo license for Spartan Parallel Suite or ODYSSEY, available to faculty and industrial chemists upon request (students must request via advisor). | Molecular modeling and computational chemistry software combining an intuitive GUI with ab initio and DFT quantum chemistry engines. |
 | **[Cresset](https://www.cresset-group.com/)** | Cresset Group | ~$5M–$8M revenue (Private) | Modules (Flare, Spark, Blaze) licensed via customized annual subscriptions; academic discounts available | **Flare Visualizer (Free Forever)**: Free perpetual 3D viewer for protein-ligand complexes and electrostatic fields. Event/workshop trials typically grant a 60-day full-feature trial; ad-hoc corporate evaluations provided on sales approval. | Molecular field technology platform featuring Flare (structure-based design/FEP), Spark (bioisosteric replacement), and Blaze (ligand virtual screening). |
 
-## Open-Source GitHub Projects
+---
 
+## 💻 Open-Source GitHub Projects
 
+*Sorted in descending order by GitHub Star count. Star badges link directly to each project's stargazers.*
 
-- **[GROMACS](https://github.com/gromacs/gromacs)**  
+1. **[DeepChem](https://github.com/deepchem/deepchem)** [![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white)](https://github.com/deepchem/deepchem/stargazers)  
+   **Democratizing deep learning for sciences** (MIT) 🧪. The premier open-source library applying deep learning to drug discovery, materials science, quantum chemistry, and biology. Features unified APIs for molecular graph convolutions, transformers, and property prediction benchmarks.
 
-  **Fast, flexible, and free molecular simulation toolkit** (LGPL-2.1) . **The most widely used open-source MD package**—**exceptional simulation speed and efficiency** for high-throughput biomolecular simulations and large system sizes  . **Implements highly optimized algorithms for non-bonded interactions** (60-90% of MD runtime) using **cluster pair lists and multiple SIMD implementations** to maximize performance across diverse hardware  . **Sophisticated SIMD parallelization and heterogeneous CPU/GPU parallelization**—automatically selects optimal kernels based on available hardware  . **The reference implementation for high-throughput MD**.
+2. **[Biopython](https://github.com/biopython/biopython)** [![GitHub stars](https://img.shields.io/github/stars/biopython/biopython?style=social&color=white)](https://github.com/biopython/biopython/stargazers)  
+   **The universal Python library for computational molecular biology** (BSD-like) 🧬. Provides battle-tested parsers for bioinformatics file formats (FASTA, GenBank, BLAST, PDB, mmCIF), sequence manipulation tools, phylogenetic trees, and structural biology analysis.
 
+3. **[ESM (Evolutionary Scale Modeling)](https://github.com/facebookresearch/esm)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/esm?style=social&color=white)](https://github.com/facebookresearch/esm/stargazers)  
+   **State-of-the-art transformer protein language models** (MIT) 🤖. Built by Meta FAIR, ESM-2 and ESMFold enable ultra-fast atomic-resolution protein 3D structure prediction directly from primary sequence without evolutionary MSA alignments.
 
+4. **[RDKit](https://github.com/rdkit/rdkit)** [![GitHub stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social&color=white)](https://github.com/rdkit/rdkit/stargazers)  
+   **The gold standard cheminformatics and machine learning toolkit** (BSD-3-Clause) 🔬. The foundational backbone for almost every modern drug discovery pipeline—handles SMILES/SMARTS parsing, 2D/3D conformer generation, Morgan fingerprinting, chemical reactions, and substructure searching.
 
-- **[Rosetta Commons](https://github.com/RosettaCommons)**  
+5. **[OpenFold](https://github.com/aqlaboratory/openfold)** [![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social&color=white)](https://github.com/aqlaboratory/openfold/stargazers)  
+   **Trainable, open-source PyTorch reproduction of AlphaFold2** (Apache-2.0) 🧬. Fully trainable from scratch with memory-efficient attention kernels, modular codebases, and complete support for fine-tuning protein folding models on proprietary structural datasets.
 
-  **Software suite for macromolecular modeling** (license via University of Washington, free for academic users)  . **The most comprehensive open-source platform for protein structure prediction, docking, and design** . **Physics-based tools**: original Rosetta suite for **structure prediction, protein-protein docking, protein-ligand docking, loop modeling, and protein design**  . **ML-based tools**: community-built deep learning methods including **foundry** for biomolecular foundation models  . **PyRosetta** provides Python bindings with **Jupyter notebooks** for learning  . **The reference implementation for protein design and macromolecular modeling**.
+6. **[LAMMPS](https://github.com/lammps/lammps)** [![GitHub stars](https://img.shields.io/github/stars/lammps/lammps?style=social&color=white)](https://github.com/lammps/lammps/stargazers)  
+   **Large-scale Atomic/Molecular Massively Parallel Simulator** (GPL-2.0) ⚛️. Highly scalable classical molecular dynamics code specializing in materials science, soft matter, polymers, coarse-grained biosystems, and granular simulations across massive supercomputers.
 
+7. **[OpenMM](https://github.com/openmm/openmm)** [![GitHub stars](https://img.shields.io/github/stars/openmm/openmm?style=social&color=white)](https://github.com/openmm/openmm/stargazers)  
+   **High-performance GPU-accelerated biomolecular simulation engine** (MIT / LGPL) ⚡. Provides extreme computational speed via CUDA/OpenCL, extensive Python APIs, and seamless integration with custom forces and machine learning neural network potentials.
 
+8. **[PyMOL Open-Source](https://github.com/schrodinger/pymol-open-source)** [![GitHub stars](https://img.shields.io/github/stars/schrodinger/pymol-open-source?style=social&color=white)](https://github.com/schrodinger/pymol-open-source/stargazers)  
+   **Open-source base of the premier molecular visualization tool** (BSD-like) 🎨. The community-accessible source code for PyMOL, allowing researchers to compile, customize, and automate publication-quality 3D macromolecular rendering without commercial licensing fees.
 
-- **[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina)**  
+9. **[PySCF](https://github.com/pyscf/pyscf)** [![GitHub stars](https://img.shields.io/github/stars/pyscf/pyscf?style=social&color=white)](https://github.com/pyscf/pyscf/stargazers)  
+   **Python-based Simulations of Chemistry Framework** (Apache-2.0) 🔬. An all-in-one quantum chemistry codebase offering efficient implementations of Hartree-Fock, DFT, MP2, CCSD(T), CASSCF, and periodic boundary solid-state calculations.
 
-  **Open-source molecular docking engine** (Apache-2.0) . **The most widely used open-source docking tool**—**designed for receptor-ligand docking** with **better speed and accuracy than original AutoDock**  . **Note**: **Docking algorithm is non-deterministic**—run several times for best results  . **Smina** provides improved optimization with **vinardo and dkoes scoring functions**  . **The reference implementation for open-source docking**.
+10. **[MDAnalysis](https://github.com/MDAnalysis/mdanalysis)** [![GitHub stars](https://img.shields.io/github/stars/MDAnalysis/mdanalysis?style=social&color=white)](https://github.com/MDAnalysis/mdanalysis/stargazers)  
+    **Object-oriented library for analyzing molecular dynamics trajectories** (GPL-2.0) 📈. Native interoperability across GROMACS, Amber, CHARMM, NAMD, LAMMPS, and Desmond file formats, delivering flexible selections and spatial-temporal data analysis.
 
+11. **[Open Babel](https://github.com/openbabel/openbabel)** [![GitHub stars](https://img.shields.io/github/stars/openbabel/openbabel?style=social&color=white)](https://github.com/openbabel/openbabel/stargazers)  
+    **The universal chemical file converter and cheminformatics toolbox** (GPL-2.0) 🔄. Supports over 110 chemical and crystallographic file formats, providing format translation, conformer generation, protonation adjustment, and 3D coordinate generation.
 
+12. **[Psi4](https://github.com/psi4/psi4)** [![GitHub stars](https://img.shields.io/github/stars/psi4/psi4?style=social&color=white)](https://github.com/psi4/psi4/stargazers)  
+    **Open-source suite for high-accuracy ab initio quantum chemistry** (LGPL-3.0) 💡. Driven by an intuitive Python frontend with high-efficiency C++ computational kernels for coupled-cluster, symmetry-adapted perturbation theory (SAPT), and DFT.
 
-- **[MDAnalysis](https://github.com/MDAnalysis/mdanalysis)**  
+13. **[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina)** [![GitHub stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?style=social&color=white)](https://github.com/ccsb-scripps/AutoDock-Vina/stargazers)  
+    **The world's most widely cited molecular docking program** (Apache-2.0) 🎯. High-speed, multi-threaded protein-ligand and flexible-receptor docking engine featuring advanced global search algorithms, accurate empirical scoring, and batch virtual screening.
 
-  **Python library for analysis of molecular dynamics simulations** (GPL-2.0)  . **The standard for MD trajectory analysis**—**works with a wide range of popular simulation packages including GROMACS, Amber, NAMD, CHARMM, LAMMPS, and many others**  . **The reference implementation for MD analysis workflows**.
+14. **[NequIP](https://github.com/mir-group/nequip)** [![GitHub stars](https://img.shields.io/github/stars/mir-group/nequip?style=social&color=white)](https://github.com/mir-group/nequip/stargazers)  
+    **E(3)-equivariant neural network interatomic potentials** (MIT) 🧠. Delivers near-DFT quantum mechanical potential energy surface accuracy in molecular dynamics with unprecedented sample efficiency, rotational equivariance, and transferability.
 
+15. **[GROMACS](https://github.com/gromacs/gromacs)** [![GitHub stars](https://img.shields.io/github/stars/gromacs/gromacs?style=social&color=white)](https://github.com/gromacs/gromacs/stargazers)  
+    **Extreme-throughput biomolecular dynamics engine** (LGPL-2.1) 🚀. Industry benchmark for high-speed MD simulations of proteins, lipids, and nucleic acids. Implements state-of-the-art SIMD acceleration, dynamic cluster pair search lists, and multi-GPU/MPI heterogeneous scaling.
 
+16. **[xTB](https://github.com/grimme-lab/xtb)** [![GitHub stars](https://img.shields.io/github/stars/grimme-lab/xtb?style=social&color=white)](https://github.com/grimme-lab/xtb/stargazers)  
+    **Extended Tight-Binding Semiempirical quantum chemistry suite** (LGPL-3.0) ⚡. Developed by the Grimme group for ultra-fast geometry optimizations, vibrational frequencies, and conformational searches across massive organic and organometallic systems (GFNn-xTB methods).
 
-- **[Open Babel](https://github.com/openbabel/openbabel)**  
+17. **[RELION](https://github.com/3dem/relion)** [![GitHub stars](https://img.shields.io/github/stars/3dem/relion?style=social&color=white)](https://github.com/3dem/relion/stargazers)  
+    **REgularised LIkelihood OptimisatioN for Cryo-EM** (GPL-2.0) 🧊. The standard software platform for single-particle cryo-electron microscopy and cryo-electron tomography 3D macromolecular reconstruction using empirical Bayesian methods.
 
-  **Chemical toolbox for interconverting chemical file formats** (GPL-2.0) . **The universal translator for molecular data**—supports 110+ formats and provides tools for cheminformatics.
+18. **[Rosetta](https://github.com/RosettaCommons/rosetta)** [![GitHub stars](https://img.shields.io/github/stars/RosettaCommons/rosetta?style=social&color=white)](https://github.com/RosettaCommons/rosetta/stargazers)  
+    **Comprehensive macromolecular modeling and de novo protein design** (Academic Free / Commercial License) 🧩. Unmatched capabilities for de novo structural prediction, protein-protein docking, loop modeling, enzyme design, and PyRosetta Python scripting.
 
+19. **[cclib](https://github.com/cclib/cclib)** [![GitHub stars](https://img.shields.io/github/stars/cclib/cclib?style=social&color=white)](https://github.com/cclib/cclib/stargazers)  
+    **Computational chemistry logfile parser** (BSD-3-Clause) 📄. Parses, standardizes, and extracts thermochemical, electronic, and structural properties from Gaussian, ORCA, Q-Chem, NWChem, Molpro, and other quantum software outputs.
 
+20. **[OpenFF Toolkit](https://github.com/openforcefield/openff-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/openforcefield/openff-toolkit?style=social&color=white)](https://github.com/openforcefield/openff-toolkit/stargazers)  
+    **Next-generation open science force fields** (MIT) 🌐. Powers the SMIRNOFF specification for direct chemical-environment force-field typing without atom-type combinatorial explosion, driving transparent, reproducible parameterization.
 
-- **[RDKit](https://github.com/rdkit/rdkit)**  
+21. **[OpenMM Tools](https://github.com/choderalab/openmmtools)** [![GitHub stars](https://img.shields.io/github/stars/choderalab/openmmtools?style=social&color=white)](https://github.com/choderalab/openmmtools/stargazers)  
+    **Advanced sampling and simulation toolkit** (MIT) 🛠️. Specialized integrators, Markov state modeling helpers, replica-exchange frameworks, and alchemical free energy tools for OpenMM workflows.
 
-  **The most widely used open-source cheminformatics toolkit** (BSD-3-Clause) . **The foundation for virtually all open-source drug discovery pipelines**—molecular I/O, substructure searching, descriptor calculation, fingerprint generation, and 2D/3D coordinate generation.
+22. **[OpenFE (Open Free Energy)](https://github.com/OpenFreeEnergy/openfe)** [![GitHub stars](https://img.shields.io/github/stars/OpenFreeEnergy/openfe?style=social&color=white)](https://github.com/OpenFreeEnergy/openfe/stargazers)  
+    **Open-source platform for alchemical free energy calculations** (MIT) ⚖️. Standardized relative and absolute binding free energy (RBFE/ABFE) workflows with automated network generation, simulation orchestration, and statistical validation.
 
+23. **[PyMBAR](https://github.com/choderalab/pymbar)** [![GitHub stars](https://img.shields.io/github/stars/choderalab/pymbar?style=social&color=white)](https://github.com/choderalab/pymbar/stargazers)  
+    **Multistate Bennett Acceptance Ratio analysis** (MIT) 📊. Python implementation of MBAR and BAR for computing rigorous, statistically optimal free energy differences from umbrella sampling and alchemical simulations.
 
+24. **[Avogadro 2](https://github.com/OpenChemistry/avogadroapp)** [![GitHub stars](https://img.shields.io/github/stars/OpenChemistry/avogadroapp?style=social&color=white)](https://github.com/OpenChemistry/avogadroapp/stargazers)  
+    **Cross-platform molecular editor and builder** (BSD-3-Clause) 🖥️. Interactive GUI designed for creating, editing, and visually inspecting chemical structures, input generation for quantum chemistry packages, and surface rendering.
 
-- **[PyMOL Open-Source](https://github.com/schrodinger/pymol-open-source)**  
+25. **[simple-dftd3](https://github.com/dftd3/simple-dftd3)** [![GitHub stars](https://img.shields.io/github/stars/dftd3/simple-dftd3?style=social&color=white)](https://github.com/dftd3/simple-dftd3/stargazers)  
+    **Lightweight DFT-D3 dispersion correction engine** (LGPL-3.0) ⚡. Fast, standalone C and Fortran implementation of Grimme's dispersion corrections with Becke-Johnson (BJ) damping functions.
 
-  **Open-source foundation of the user-sponsored PyMOL molecular visualization system** (BSD-like)  . **The open-source version of the most widely used molecular visualization tool**—for users who want PyMOL without the commercial license.
-
-
-
-- **[VMD (Visual Molecular Dynamics)](https://www.ks.uiuc.edu/Research/vmd/)**  
-
-  **Molecular visualization and analysis program** (free for academic use) . **The standard for MD trajectory visualization**—designed for modeling, visualization, and analysis of biological systems  .
-
-
-
-- **[Avogadro](https://github.com/Avogadro/avogadro)**  
-
-  **Advanced molecular editor** (GPL-2.0) . **The most user-friendly open-source molecular editor**—cross-platform with intuitive interface for building and visualizing molecules  .
-
-
-
-- **[NequIP](https://github.com/mir-group/nequip)**  
-
-  **E(3)-equivariant interatomic potentials** (MIT)  . **The leading open-source machine learning potential**—**builds E(3)-equivariant neural network potentials** for molecular dynamics with near-DFT accuracy  .
-
-
-
-- **[xTB](https://github.com/grimme-lab/xtb)**  
-
-  **Semiempirical Extended Tight-Binding Program Package** (LGPL-3.0)  . **The most widely used open-source semiempirical quantum chemistry method**—**fast geometry optimization and molecular dynamics** for large systems .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[OpenMM](https://github.com/openmm/openmm)** — High-performance molecular simulation toolkit (MIT) . **The most flexible open-source MD engine** with GPU acceleration .
-
-- **[NAMD](https://www.ks.uiuc.edu/Research/namd/)** — Scalable molecular dynamics (free for academic use) . **The standard for large-scale biomolecular simulations**  .
-
-- **[LAMMPS](https://github.com/lammps/lammps)** — Large-scale Atomic/Molecular Massively Parallel Simulator (GPL-2.0) . **The standard for materials science MD** .
-
-- **[AmberTools](https://github.com/Amber-MD/AmberTools)** — Open-source tools for Amber force field (GPL-2.0) . **The open-source foundation for AMBER workflows**  .
-
-- **[Open Force Field](https://github.com/openforcefield)** — Open science force field development (MIT) . **The emerging standard for reproducible force fields**  .
-
-- **[cclib](https://github.com/cclib/cclib)** — Parsers for computational chemistry logfiles (BSD-3-Clause)  .
-
-- **[QuAcK](https://github.com/pfloos/QuAcK)** — Quantum electronic structure methods (Apache-2.0)  .
-
-- **[simple-dftd3](https://github.com/dftd3/simple-dftd3)** — Reimplementation of DFT-D3 dispersion correction (LGPL-3.0)  .
-
-- **[pymol-open-source (fgld216)](https://github.com/fgld216/pymol-open-source)** — Community PyMOL open-source mirror  .
-
-- **[VTX](https://github.com/VTX-Molecular-Visualization)** — Open-source molecular visualization for massive systems (free for non-commercial use)  .
-
-- Community **n8n** workflows for simulation job orchestration and analysis pipeline automation.
-
-
-
-**Frameworks for building custom systems**: Combine **GROMACS** for high-throughput MD with **Rosetta** for protein design, **AutoDock Vina** or **Smina** for docking, **MDAnalysis** for trajectory analysis, **RDKit** for cheminformatics, and **OpenMM** for flexible simulation—creating a fully open-source computational chemistry platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Computational chemistry tools must comply with software licenses (academic vs. commercial) and institutional requirements.
-
-- **Open-source tools are mature and production-ready.** GROMACS is the most widely used open-source MD package with exceptional performance  . Rosetta provides the most comprehensive open-source platform for protein design  . AutoDock Vina is the standard for open-source docking  . **These are genuine alternatives to commercial platforms.**
-
-- **The open-source vs. commercial trade-off is explicit.** Open-source offers **zero cost, transparency, and flexibility** but **documentation quality varies, maintenance depends on research funding, and onboarding requires expertise**  . Commercial tools offer **support, training, and optimized UX** but at **high license costs with opaque source code**  . **Choose based on your team's expertise and budget.**
-
-- **GROMACS's performance advantage is algorithmic.** It implements **highly optimized algorithms for non-bonded interactions** (60-90% of MD runtime) using **cluster pair lists and multiple SIMD implementations**  . **This is why GROMACS achieves longer timescales and larger systems within practical computational timeframes**  .
-
-- **Rosetta's academic license is free.** **Rosetta is available for license, which is free of charge to academic users** at https://www.rosettacommons.org/software  . **Commercial users pay licensing fees**—verify your institution's status before use.
-
-- **Machine learning potentials are the emerging frontier.** NequIP builds **E(3)-equivariant interatomic potentials** with near-DFT accuracy  . Open Force Field provides **open science force field development**  . **These represent the convergence of ML and physics-based simulation.**
-
-- Self-hosted open-source solutions require proper HPC infrastructure, GPU provisioning, and ongoing maintenance. **Computational chemistry workflows are computationally intensive**—plan for cluster or cloud resources.
-
-
+26. **[QuAcK](https://github.com/pfloos/QuAcK)** [![GitHub stars](https://img.shields.io/github/stars/pfloos/QuAcK?style=social&color=white)](https://github.com/pfloos/QuAcK/stargazers)  
+    **Quantum electronic structure prototyping** (Apache-2.0) 🦆. Python research platform for developing and testing advanced post-Hartree-Fock, coupled-cluster, and GW Green's function methods.
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcomed! Help keep this ecosystem comprehensive, factual, and up to date:
 
-**Made for computational chemists, structural biologists, and organizations building transparent scientific computing solutions.**  
+1. **Fork** the repository 🍴
+2. **Add or refine** entries in `README.md` (ensure factual documentation, links, active repository status, and license)
+3. **Submit a Pull Request** with a concise description of your additions ✨
 
-Let's make Computational Chemistry & Biology more open, data-driven, and reproducible.
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Computational-Chemistry-Biology&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Computational-Chemistry-Biology&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository valuable for your research, teaching, or software development, consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it
+- 🍴 **Fork and share** it with your research group or colleagues
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Thank you to all scientists, maintainers, and contributors advancing open computational biology and chemistry! 🚀
+
+---
+
+## ⚖️ Disclaimer & Software Licensing
+
+- This repository is a community-curated directory for educational and scientific research purposes. Inclusion does not imply endorsement.
+- Computational chemistry tools are subject to distinct software licensing agreements (academic, non-profit, government, or commercial). Verify terms before deploying in commercial or revenue-generating settings.
+- Physics-based simulation and AI potential inference require appropriate HPC or GPU resources. Plan computational infrastructure accordingly.
+
+---
+
+<p align="center">
+  <b>Empowering computational chemists, structural biologists, and researchers worldwide. 🧪🧬</b>
+</p>
